@@ -1,0 +1,19 @@
+/* ==== ESTILO GLOBAL ==== */
+body {
+  background: linear-gradient(180deg, #fdf7ff 0%, #faf5ff 100%);
+  font-family: "Poppins", sans-serif;
+}
+
+button {
+  border-radius: 8px;
+  font-weight: 500;
+}
+
+input {
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+}
+
+h1, h2, h3 {
+  color: #3b0764; /* tono púrpura oscuro elegante */
+}
